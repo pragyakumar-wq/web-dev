@@ -1,0 +1,30 @@
+
+
+span {
+    color: rgb(221, 83, 18);
+}
+
+h4 {
+    color: aqua;
+}
+
+.hello {
+    color: rgb(221, 83, 18);
+}
+
+#hello {
+    color:crimson;
+}
+
+/* * {
+    color: blue;
+} */
+
+.helo2 { 
+    background-color: blue;
+}
+
+.don {
+    color: rgb(221, 83, 18);
+    background-color: rgb(0, 255, 255);
+}

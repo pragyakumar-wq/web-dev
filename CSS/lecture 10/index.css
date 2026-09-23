@@ -1,0 +1,60 @@
+h1 {
+    color: rgb(45, 208, 208);
+    font-family: "Playwrite BE WAL Guides", cursive;
+}
+
+
+.playwrite-be-wal-guides-regular {
+    font-family: "Playwrite BE WAL Guides", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+.pragya {
+    font-family: "Playwrite BE WAL Guides", cursive;
+    font-size: 40px;
+    font-weight: 50;
+    color: antiquewhite;
+}
+
+
+
+#karan {
+
+    font-style: italic;
+    font-variant: initial;
+    line-height: 2;
+    /* letter spacing me hum letter ke bich me hum space de sakte hai */
+    letter-spacing: 3px;
+    word-spacing: 30px;
+}
+
+#vikash {
+    text-align: center;
+    border: 1px solid black;
+    text-decoration: underline dotted;
+}
+
+#nilesh {
+    text-align: center;
+    border: 1px solid black;
+    display: block;
+    text-decoration: underline dashed;
+}
+
+#anjali {
+    text-align: center;
+    font-size: 100px;
+    text-shadow: 10px 2px 1px red;
+}
+
+#color {
+    color: blue;
+    color: #b0bab0;
+    color: rgb(175, 189, 183);
+    color: rgba(23, 199, 123, 0.3);
+    color: hsl(10, 26%, 50%);
+    background-color: rgb(162, 213, 213);
+}
