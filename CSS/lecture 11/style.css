@@ -1,3 +1,42 @@
 h1 {
-    background-color: brown;
+    /* background-color: rgb(209, 112, 112); */
+}
+
+#wrapper {
+    /* background: linear-gradient(to top, red , blue); */
+     /* background: linear-gradient( 45deg , red , blue ,yellow ,pink); */
+
+     /* background: radial-gradient( blue , yellow , pink); */
+
+     /* background: conic-gradient( red , blue , yellow , pink); */
+
+    /* background-image: url(https://plus.unsplash.com/premium_photo-1789722582311-a9aa3120bb76?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyfHx8ZW58MHx8fHx8); */
+/* 
+    border: 2px solid black; */
+    background-repeat: no-repeat;
+    /* background-position: top;
+
+    /* background-size: contain; */
+   /* contains me pura image aati hai but cover me pura image crop ho kar bhar jaati hai */
+
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: brown;
+     border-radius: 20px;
+
+    border: 2px , solid , blueviolet; */
+    
+    border: 10px;
+    padding: 40px;
+
+   
+    /* height: 600px; */
+}
+
+p {
+    /* padding: 40px; */
+    border: 5px solid rgb(203, 9, 9);
+    /* padding: top bottom right left; */
+    /* padding: 0 40px 0 40px; */
+    padding:  40px 0px 10px;
 }
